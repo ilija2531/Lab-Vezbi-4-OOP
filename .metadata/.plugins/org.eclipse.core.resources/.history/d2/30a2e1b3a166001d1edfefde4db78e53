@@ -1,0 +1,41 @@
+package zadaca6;
+
+public class KalkulatorZaDecimalniBroevi implements IMatematickiOperaciiVrzDecimalniBroevi {
+
+	@Override
+	public double odzemanje(int x, int y) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double sobiranje(int x, int y) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double mnozenje(int x, int y) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double delenje(int x, int y) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double ostatok(int x, int y) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double stepenuvanje(int x, int y) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

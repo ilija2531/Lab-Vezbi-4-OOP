@@ -1,0 +1,36 @@
+package zadaca2;
+
+public class Restoran {
+	private String imenarestoran;
+	private String lokacija;
+	private int telefon;
+	private int brojnasedista;
+	
+	public String getImenarestoran() {
+		return imenarestoran;
+	}
+	public void setImenarestoran(String imenarestoran) {
+		this.imenarestoran = imenarestoran;
+	}
+	public String getLokacija() {
+		return lokacija;
+	}
+	public void setLokacija(String lokacija) {
+		this.lokacija = lokacija;
+	}
+	public int getTelefon() {
+		return telefon;
+	}
+	public void setTelefon(int telefon) {
+		this.telefon = telefon;
+	}
+	public int getBrojnasedista() {
+		return brojnasedista;
+	}
+	public void setBrojnasedista(int brojnasedista) {
+		this.brojnasedista = brojnasedista;
+	}
+	
+	
+
+}
